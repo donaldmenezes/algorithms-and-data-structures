@@ -1,5 +1,5 @@
 class Stack:
-    def__init__(self):
+    def __init__(self):
         """ Using list data structure to implement a stack """
         self.items = []
     
