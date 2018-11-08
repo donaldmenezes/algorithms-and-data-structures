@@ -17,7 +17,7 @@ class Stack:
         
     def peek(self):
         """ returns the top element of the stack/list """
-        return self.items[len(items)-1]
+        return self.items[len(self.items)-1]
         
     def size(self):
         """ returns the length of the stack """
