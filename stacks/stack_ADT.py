@@ -11,7 +11,7 @@ class Stack:
         """ adds a item to the end of the list """
         return self.items.append(item)
         
-    def pop(self, item):
+    def pop(self):
         """ removes the last element from list """
         return self.items.pop()
         
