@@ -1,4 +1,4 @@
-Class Queue:
+class Queue:
     """
     Defining a Queue Class, First in First Out system
     """
