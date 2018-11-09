@@ -18,7 +18,7 @@ class Queue:
         
         return self.items == []
         
-    def enqueue(item):
+    def enqueue(self, item):
         """ 
         Adds an item at position 0 of the queue. 
         That is, adding item at the rear of the queue.
